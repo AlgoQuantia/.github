@@ -1,5 +1,3 @@
-# AlgoQuantia
-
 ## Introduction
 
 **AlgoQuantia** represents a pioneering research initiative, focused explicitly on the financial markets. The project symbolizes the synergy of algorithmic techniques ("Algo") with quantifiable analytics ("Quantia"), seeking to deploy sophisticated algorithms for profound insight and forecasting of financial market behaviors. This endeavor is purely academic, aiming for advancements in knowledge and understanding, with no commercial or profit-oriented objectives.
